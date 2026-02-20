@@ -1,0 +1,76 @@
+CREDIT RISK POLICY DOCUMENT
+
+1. Credit Default Definition:
+A credit default occurs when a borrower fails to make scheduled payments for more than 90 consecutive days.
+
+2. Risk Classification:
+Customers are classified into three risk categories:
+- Low Risk: Credit score above 750
+- Medium Risk: Credit score between 600 and 750
+- High Risk: Credit score below 600
+
+3. Loan Approval Criteria:
+- Minimum income requirement: ₹30,000 per month
+- Debt-to-Income ratio must not exceed 40%
+- Employment stability must be at least 2 years
+
+4. Early Warning Signals:
+- Multiple missed payments within 6 months
+- Sudden drop in credit score
+- High credit utilization (>80%)
+
+5. Recovery Actions:
+- Soft reminder after 7 days delay
+- Legal notice after 60 days
+- Account marked NPA after 90 days
+
+ANTI-MONEY LAUNDERING (AML) GUIDELINES
+
+1. KYC Requirements:
+- Government-issued ID mandatory
+- Address verification required
+- PAN card mandatory for Indian customers
+
+2. Suspicious Transaction Monitoring:
+Transactions exceeding ₹10,00,000 must be flagged.
+Frequent large cash deposits must be investigated.
+
+3. Reporting Requirements:
+Suspicious transactions must be reported to regulatory authority within 7 days.
+
+4. Risk-Based Monitoring:
+High-risk customers require enhanced due diligence.
+Quarterly review is mandatory for high-risk accounts.
+
+
+DATA SECURITY POLICY
+
+1. Encryption Standards:
+All customer data must be encrypted using AES-256.
+
+2. Access Control:
+Multi-factor authentication (MFA) is mandatory for admin access.
+Role-based access control must be implemented.
+
+3. Audit Logs:
+Audit logs must be retained for minimum 5 years.
+
+4. Data Breach Policy:
+Any suspected breach must be reported within 24 hours.
+Incident response team must investigate within 48 hours.
+
+FRAUD RISK MANAGEMENT
+
+1. Fraud Indicators:
+- Multiple transactions from different geographic locations within 1 hour
+- High-value transactions outside usual spending pattern
+- Repeated OTP failures
+
+2. Automated Blocking:
+Accounts showing high-risk fraud patterns must be temporarily blocked.
+
+3. Manual Review:
+Fraud analysts must review flagged accounts within 12 hours.
+
+4. Customer Notification:
+Customers must be notified immediately in case of suspicious activity.
