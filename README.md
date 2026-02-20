@@ -31,32 +31,14 @@ enterprise_rag/
 - [Git](https://git-scm.com/download/win) (for version control)
 - pip (Python package manager)
 
-## Setup Instructions
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/enterprise-rag.git
-   cd enterprise-rag
-   ```
-
-2. **Create and activate a virtual environment (optional but recommended)**
-   ```sh
-   python -m venv venv
-   # On Windows:
-   venv\Scripts\activate
-   # On macOS/Linux:
-   source venv/bin/activate
-   ```
-
-3. **Install dependencies**
+## **Install dependencies**
    ```sh
    pip install -r requirements.txt
    ```
-
-4. **Prepare your data**
+## **Prepare your data**
    - Place your policy documents in the `data/policies.txt` file. You can replace or update this file as needed.
 
-5. **Run the application**
+## **Run the application**
    ```sh
    python main.py
    ```
@@ -76,9 +58,7 @@ enterprise_rag/
 - To use your own documents, replace the contents of `data/policies.txt`.
 - You can modify or extend the modules in the `src/` directory for custom chunking, embedding, or retrieval logic.
 
-## License
 
-This project is for educational and research purposes. Please check the repository license for more details.
 =======
 # rag_policy_assistant
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for enterprise policy documents. It loads, chunks, embeds, indexes, and retrieves document content to answer user queries using a generative model.
