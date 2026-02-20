@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Enterprise RAG
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for enterprise policy documents. It loads, chunks, embeds, indexes, and retrieves document content to answer user queries using a generative model.
@@ -78,3 +79,7 @@ enterprise_rag/
 ## License
 
 This project is for educational and research purposes. Please check the repository license for more details.
+=======
+# rag_policy_assistant
+This project implements a Retrieval-Augmented Generation (RAG) pipeline for enterprise policy documents. It loads, chunks, embeds, indexes, and retrieves document content to answer user queries using a generative model.
+>>>>>>> 19af45efa63862d8c6ec9ed5813c436b16539505
